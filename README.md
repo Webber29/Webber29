@@ -1,6 +1,6 @@
 ### Hi👋, this is Webber.
 
-![](https://komarev.com/ghpvc/?username=Webber29&color=6495ED)
+![](https://komarev.com/ghpvc/?username=Webber29&color=1E90FF)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webber29&theme=transparent&show_icons=true)
 <!--
