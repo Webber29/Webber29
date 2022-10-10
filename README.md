@@ -1,5 +1,7 @@
 ### Hi👋, this is Webber.
 
+![](https://komarev.com/ghpvc/?username=Webber29&color=000080)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Webber29&theme=transparent&show_icons=true)
 <!--
 **Webber29/Webber29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
